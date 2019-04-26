@@ -191,9 +191,12 @@ After creating or modifying business logic, the control procedure can be marked 
 ![](assets/sf/ready_for_review.png)
 *Ready for review task*
 
-This will set the status of the control procedure to *Review* and create a changelog record. The code changelogs, including the code changes, can be found in the *Code changelog* tab page. 
+This will set the status of the control procedure to *Review* and create a changelog record. The code changelogs, including the code changes, can be found in the *Code changelog* tab page.
 
 ![](assets/sf/image283.png)
+*Changelog tab page*
+
+Any changes made to the code, while the status of the control procedure is set to review, will directly be pushed to the changelog and a changelog update message will be added in the comments tab page.
 
 The control procedure will show up in the [*Code review*](code_review) screen, ready to be reviewed. 
 
