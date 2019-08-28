@@ -1,3 +1,3 @@
 ---
-Data Sets
+title: Data sets
 ---
